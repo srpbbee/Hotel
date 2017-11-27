@@ -12,8 +12,8 @@
 	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/narai2.jpg",
 	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/narai3.jpg",
 	"location": "Bangkok"
-	}
-		{
+	},
+	{
 	"id":2,
 	"Name": "Holiday Inn Hotel",
 	"Detail": ["Luxury room: available 3 rooms: (include breakfast) price ฿6500/night",
@@ -25,8 +25,8 @@
 	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/holiday2.jpg",
 	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/holiday1.jpg",
 	"location": "Bangkok"
-	}
-		{
+	},
+	{
 	"id":3,
 	"Name": "Pullman Hotel",
 	"Detail": ["Luxury room: available 2 rooms: (include breakfast) price ฿7000/night",
@@ -38,8 +38,8 @@
 	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/pullman2.PNG",
 	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/pullman1.PNG",
 	"location": "Bangkok"
-	}
-		{
+	},
+	{
 	"id":4,
 	"Name": "Mandarin Oriental Hotel",
 	"Detail": ["Luxury room: available 2 rooms: (include breakfast) price ฿7500/night",
@@ -51,8 +51,8 @@
 	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/mandarin2.png",
 	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/mandarin3.png",
 	"location": "Bangkok"
-	}
-		{
+	},
+	{
 	"id":5,
 	"Name": "Furama Hotel",
 	"Detail": ["Luxury room: available 6 rooms: (include breakfast) price ฿6800/night",
@@ -64,8 +64,8 @@
 	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/furama2.jpg",
 	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/furama3.jpg",
 	"location": "Bangkok"
-	}
-		{
+	},
+	{
 	"id":6,
 	"Name": "Dusit Thani Hotel",
 	"Detail": ["Luxury room: available 6 rooms: (include breakfast) price ฿6680/night",
