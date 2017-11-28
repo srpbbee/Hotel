@@ -7,10 +7,10 @@
 			  "Sweet room: availale 1 room : (include breakfast) price ฿4000/night",
 			  "Dulux room: availale 1 room : (include breakfast) price ฿3000/night"],
 	"Option": "ohter meal, spa, fitness",
-	"image1": "https://github.com/srpbbee/Hotel/blob/master/images/narai.jpg",
-	"image2": "https://github.com/srpbbee/Hotel/blob/master/images/narai1.jpg",
-	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/narai2.jpg",
-	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/narai3.jpg",
+	"image1": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/narai.jpg",
+	"image2": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/narai1.jpg",
+	"image3": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/narai2.jpg",
+	"image4": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/narai3.jpg",
 	"location": "Bangkok"
 	},
 	{
@@ -20,10 +20,10 @@
 			  "Sweet room: availale 1 room : (include breakfast) price ฿4000/night",
 			  "Dulux room: availale 1 room : (include breakfast) price ฿3000/night"],
 	"Option": "ohter meal, spa, fitness",
-	"image1": "https://github.com/srpbbee/Hotel/blob/master/images/holiday.jpg",
-	"image2": "https://github.com/srpbbee/Hotel/blob/master/images/holiday3.jpg",
-	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/holiday2.jpg",
-	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/holiday1.jpg",
+	"image1": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/holiday.jpg",
+	"image2": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/holiday3.jpg",
+	"image3": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/holiday2.jpg",
+	"image4": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/holiday1.jpg",
 	"location": "Bangkok"
 	},
 	{
@@ -33,10 +33,10 @@
 			  "Sweet room: availale 5 room : (include breakfast) price ฿4300/night",
 			  "Dulux room: availale 3 room : (include breakfast) price ฿3200/night"],
 	"Option": "ohter meal, spa, fitness",
-	"image1": "https://github.com/srpbbee/Hotel/blob/master/images/pullman.jpg",
-	"image2": "https://github.com/srpbbee/Hotel/blob/master/images/pullman3.PNG",
-	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/pullman2.PNG",
-	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/pullman1.PNG",
+	"image1": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/pullman.jpg",
+	"image2": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/pullman3.PNG",
+	"image3": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/pullman2.PNG",
+	"image4": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/pullman1.PNG",
 	"location": "Bangkok"
 	},
 	{
@@ -46,10 +46,10 @@
 			  "Sweet room: availale 2 room : (include breakfast) price ฿4500/night",
 			  "Dulux room: availale 4 room : (include breakfast) price ฿3800/night"],
 	"Option": "ohter meal, spa, fitness",
-	"image1": "https://github.com/srpbbee/Hotel/blob/master/images/mandarin.jpg",
-	"image2": "https://github.com/srpbbee/Hotel/blob/master/images/mandarin1.png",
-	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/mandarin2.png",
-	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/mandarin3.png",
+	"image1": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/mandarin.jpg",
+	"image2": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/mandarin1.png",
+	"image3": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/mandarin2.png",
+	"image4": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/mandarin3.jpg",
 	"location": "Bangkok"
 	},
 	{
@@ -59,10 +59,10 @@
 			  "Sweet room: availale 3 room : (include breakfast) price ฿4600/night",
 			  "Dulux room: availale 5 room : (include breakfast) price ฿2900/night"],
 	"Option": "ohter meal, spa, fitness",
-	"image1": "https://github.com/srpbbee/Hotel/blob/master/images/furama.jpg",
-	"image2": "https://github.com/srpbbee/Hotel/blob/master/images/furama1.jpg",
-	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/furama2.jpg",
-	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/furama3.jpg",
+	"image1": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/furama.jpg",
+	"image2": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/furama1.jpg",
+	"image3": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/furama2.jpg",
+	"image4": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/furama3.jpg",
 	"location": "Bangkok"
 	},
 	{
@@ -72,10 +72,10 @@
 			  "Sweet room: availale 3 room : (include breakfast) price ฿4700/night",
 			  "Dulux room: availale 5 room : (include breakfast) price ฿3450/night"],
 	"Option": "ohter meal, spa, fitness",
-	"image1": "https://github.com/srpbbee/Hotel/blob/master/images/dusit.jpg",
-	"image2": "https://github.com/srpbbee/Hotel/blob/master/images/dusit1.jpg",
-	"image3": "https://github.com/srpbbee/Hotel/blob/master/images/dusit2.jpg",
-	"image4": "https://github.com/srpbbee/Hotel/blob/master/images/dusit3.jpg",
+	"image1": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/dusit.jpg",
+	"image2": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/dusit1.jpg",
+	"image3": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/dusit2.jpg",
+	"image4": "https://raw.githubusercontent.com/srpbbee/Hotel/master/images/dusit3.jpg",
 	"location": "Bangkok"
 	}
 	]
